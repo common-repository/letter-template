@@ -1,0 +1,84 @@
+/* Plugin settings page */
+
+.wnlt-clear {
+	clear: both;
+}
+.wnlt-clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.form-table td {
+	vertical-align: top;
+}
+.wrap-tags {
+	line-height: 1.5em;
+}
+.wrap-tags .tag {
+	cursor: pointer;
+}
+.wnlt-repeating {
+	padding: 10px;
+	background: #F2F2F2;
+	background: rgba(0,0,0,.04);
+}
+.wnlt-repeating:hover {
+	background: #E6E6E6;
+	background: rgba(0,0,0,.08);
+}
+.wnlt-repeating + .wnlt-repeating {
+	border-top: 1px solid #D9D9D9;
+	border-top: 1px solid rgba(0,0,0,.12);
+}
+.wnlt-repeating .contents {
+	width: 80%;
+	float: left;
+}
+.wnlt-repeating .contents label {
+	vertical-align: top;
+	white-space: nowrap;
+}
+.wnlt-repeating .actions {
+	width: 20%;
+	float: right;
+}
+.wnlt-repeating:first-of-type .wnlt-up,
+.wnlt-repeating:last-of-type .wnlt-down {
+	visibility: hidden;
+}
+.wnlt-repeating .wnlt-remove {
+/*	display: none;*/
+}
+
+.wnlt-fields-action {
+	padding: 20px 10px;
+}
+
+@media only screen and (max-width: 960px) {
+	.wnlt-repeating .contents {
+		width: 97%;
+		float: none;
+	}
+	.wnlt-repeating .actions {
+		width: 97%;
+		float: none;
+		padding-bottom: 10px;
+	}
+}
+
+/* Business CPT */
+
+#wnlt_business_details label {
+	width: 20%;
+	display: inline-block;
+}
+#wnlt_business_details input,
+#wnlt_business_details textarea,
+#wnlt_business_details select {
+	width: 77%;
+}
+
+@media only screen and (max-width: 960px) {
+
+
+}

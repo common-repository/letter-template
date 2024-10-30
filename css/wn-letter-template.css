@@ -1,0 +1,33 @@
+.wnlt-text,
+.wnlt-textarea,
+.wnlt-select {
+	width: 100%;
+}
+span.tooltipster-icon {
+	display: block;
+	border-radius: 100%;
+	box-sizing: border-box;
+	color: #fff;
+    font-size: 0.6em;
+    line-height: 1em;
+    font-weight: 700;
+	text-align: center;
+	float: right;
+
+    cursor: help;
+    margin-left: 4px;
+    background: #a9b1b3;
+    border: 3px solid #a9b1b3;
+    width: 2.3em;
+    height: 2.3em;
+    padding: 0.4em 0 0;
+    margin: -1em -1em 0 -3em;
+
+	position: relative;
+	z-index: 1;
+}
+span.tooltipster-icon:hover {
+    background: #fff;
+    color: #a9b1b3;
+    border: 3px solid #a9b1b3;
+}

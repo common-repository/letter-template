@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-10-17 01:12+0200\n"
+"PO-Revision-Date: 2015-10-17 01:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: Styling Designs\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\t;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wn-letter-template-widget.php:12
+msgid "Letter Template Form"
+msgstr ""
+
+#: wn-letter-template-widget.php:13
+msgid "Letter Template Form Widget"
+msgstr ""
+
+#: wn-letter-template-widget.php:54
+msgid "Title:"
+msgstr ""
+
+#: wn-letter-template.php:70 wn-letter-template.php:178
+msgid "Letter Template Settings"
+msgstr ""
+
+#: wn-letter-template.php:71 wn-letter-template.php:125
+msgid "Letter Template"
+msgstr ""
+
+#: wn-letter-template.php:99
+msgid "Use these template tags to match the Business template display:"
+msgstr ""
+
+#: wn-letter-template.php:109
+msgid "Business Template"
+msgstr ""
+
+#: wn-letter-template.php:119
+msgid ""
+"You can add any of these template tags anywhere in the template text and "
+"they will be prefilled with the user input:"
+msgstr ""
+
+#: wn-letter-template.php:135
+msgid "Leave blank to use the build-in (letter-%business_name%) file name."
+msgstr ""
+
+#: wn-letter-template.php:139
+msgid "Download File Name"
+msgstr ""
+
+#: wn-letter-template.php:161
+msgid "Short Text"
+msgstr ""
+
+#: wn-letter-template.php:162
+msgid "Multi-line Text Area"
+msgstr ""
+
+#: wn-letter-template.php:163 wn-letter-template.php:233
+msgid "Predefined Text"
+msgstr ""
+
+#: wn-letter-template.php:164
+msgid "Date"
+msgstr ""
+
+#: wn-letter-template.php:166
+msgid "Business Select"
+msgstr ""
+
+#: wn-letter-template.php:192
+msgid "Form Fields"
+msgstr ""
+
+#: wn-letter-template.php:194
+msgid "Please select which fields will be included in the form."
+msgstr ""
+
+#: wn-letter-template.php:211
+msgid "Up"
+msgstr ""
+
+#: wn-letter-template.php:212
+msgid "Down"
+msgstr ""
+
+#: wn-letter-template.php:213
+msgid "Remove"
+msgstr ""
+
+#: wn-letter-template.php:216
+msgid "Field Name"
+msgstr ""
+
+#: wn-letter-template.php:218
+msgid "Field Type"
+msgstr ""
+
+#: wn-letter-template.php:229
+msgid "Description"
+msgstr ""
+
+#: wn-letter-template.php:244
+msgid "Add Another"
+msgstr ""
+
+#: wn-letter-template.php:320 wn-letter-template.php:462
+#: wn-letter-template.php:529
+msgid "Unknown"
+msgstr ""
+
+#: wn-letter-template.php:442
+msgid "Yes"
+msgstr ""
+
+#: wn-letter-template.php:461
+msgid "please select"
+msgstr ""
+
+#: wn-letter-template.php:635
+msgctxt "Post Type General Name"
+msgid "Letter Template Businesses"
+msgstr ""
+
+#: wn-letter-template.php:636
+msgctxt "Post Type Singular Name"
+msgid "Business"
+msgstr ""
+
+#: wn-letter-template.php:637
+msgid "LT-Businesses"
+msgstr ""
+
+#: wn-letter-template.php:638
+msgid "Parent Business:"
+msgstr ""
+
+#: wn-letter-template.php:639
+msgid "All Businesses"
+msgstr ""
+
+#: wn-letter-template.php:640
+msgid "View Business"
+msgstr ""
+
+#: wn-letter-template.php:641
+msgid "Add New Business"
+msgstr ""
+
+#: wn-letter-template.php:642
+msgid "Add New"
+msgstr ""
+
+#: wn-letter-template.php:643
+msgid "Edit Business"
+msgstr ""
+
+#: wn-letter-template.php:644
+msgid "Update Business"
+msgstr ""
+
+#: wn-letter-template.php:645
+msgid "Search Businesses"
+msgstr ""
+
+#: wn-letter-template.php:646
+msgid "Not found"
+msgstr ""
+
+#: wn-letter-template.php:647
+msgid "Not found in Trash"
+msgstr ""
+
+#: wn-letter-template.php:650
+msgid "business"
+msgstr ""
+
+#: wn-letter-template.php:651
+msgid "Letter Template Businesses and Organizations"
+msgstr ""
+
+#: wn-letter-template.php:682
+msgid "Address"
+msgstr ""
+
+#: wn-letter-template.php:683
+msgid "Postcode"
+msgstr ""
+
+#: wn-letter-template.php:684
+msgid "City"
+msgstr ""
+
+#: wn-letter-template.php:714
+msgid "Details"
+msgstr ""
